@@ -7,7 +7,7 @@ Progressive Budget
 [![mitLicense](https://img.shields.io/badge/license-MIT-green?style=plastic)](https://choosealicense.com/licenses/bsd-3-clause/)
 
 
-- Link to live application: https://appfitness-tracker.herokuapp.com/?id=60c23f30740f00001551dd7c
+- Link to live application: https://appprogressivebudget.herokuapp.com/
 
 ## Usage 
 This was built with express, node and indexDB. With this application you can keep track of your finances by adding expenses and income.
